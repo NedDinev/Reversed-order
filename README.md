@@ -1,1 +1,53 @@
-# Reversed-order
+#	Print Numbers in Reversed Order
+You will be given a few numbers as input. You need to print them in reversed order, each on a new line.
+<br>
+Examples:
+<br>
+<table>
+<thead>
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+    <th></th>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>10</td>
+    <td>20</td>
+    <td></td>
+    <td>5</td>
+    <td>-3</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>15</td>
+    <td></td>
+    <td>5.5</td>
+    <td>24</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>10</td>
+    <td></td>
+    <td>24</td>
+    <td>5.5</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>-3</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><br></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
